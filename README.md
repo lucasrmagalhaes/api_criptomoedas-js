@@ -1,4 +1,6 @@
-# Buscando dados da API Coin Market Cap
+# Buscando dados da API: Coin Market Cap :moneybag:
+
+[![Coin](https://i.imgur.com/7lpUF8Z.jpg)](https://apicriptomoedas.netlify.app/)
 
 ### API:
 - Realizar o cadastro ou login para resgatar sua key.
