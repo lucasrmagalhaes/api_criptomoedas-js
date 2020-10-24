@@ -1,6 +1,5 @@
 # Buscando dados da API: Coin Market Cap :moneybag:
 
-Site só vai carregar os dados se estiver utilizando a extensão.
 [![Coin](https://i.imgur.com/7lpUF8Z.jpg)](https://apicriptomoedas.netlify.app/)
 
 ### API:
